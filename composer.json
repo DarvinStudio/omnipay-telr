@@ -1,0 +1,31 @@
+{
+  "name": "darvinstudio/omnipay-telr",
+  "description": "Omnipay gate way for Telr.com",
+  "keywords": [
+    "omnipay",
+    "telr"
+  ],
+  "homepage": "https://github.com/darvinstudio/omnipay-telr",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lev Semin",
+      "email": "lev@darvin-studio.ru",
+      "homepage": "https://www.darvin-studio.ru"
+    }
+  ],
+  "require": {
+    "league/omnipay": "^3",
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "Darvin\\OmnipayTelr\\": "src"
+    }
+  },
+  "autoload-dev": {},
+  "scripts": {},
+  "extra": {},
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
