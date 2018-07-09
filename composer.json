@@ -15,7 +15,7 @@
     }
   ],
   "require": {
-    "league/omnipay": "^3",
+    "league/omnipay": "^3"
   },
   "require-dev": {},
   "autoload": {
